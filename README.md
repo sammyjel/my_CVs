@@ -1,4 +1,6 @@
-# my_CVs
+# DeVopCV
+
+
 # SAMUEL IJELUOLA #
 # Antalya, Konyalti | +90537 680 6299| sammyjel@gmail.com 
 
@@ -30,22 +32,25 @@ PERSONAL STATEMENT Experienced IT professional with with over 8 years of experie
 •	Sound Engineering
 # Work History #
 
-IT Support/ DevOps Engineer 	 01/2019 to Current 
+DevOps Engineer 	 01/2019 to Current 
 SARITAY IT CONSULT & ISTEK EDUCATION AND IT SERVICES 
-•	Manage entire software development lifecycle, including code deployment and release management
-•	Implement CI/CD pipelines using Jenkins, Docker, Kubernetes and GitHub, reducing deployment time by 50%
-•	Configure and maintain cloud infrastructure on AWS, including EC2, S3, and RDS
-•	Implement security measures and performed regular vulnerability assessments
-•	Provide technical support for customers via phone, email, and ticketing system
-•	Resolve technical issues related to Linux and Windows servers, including networking, software, and hardware
-•	Collaborate with team members to identify and troubleshoot complex issues
-•	Assist customers with configuring and optimizing their servers and applications
-•	Document technical solutions for future reference
-•	Maintain high level of customer satisfaction by ensuring timely and effective resolution of issues
-•	Provide technical support for customers via phone, email, and ticketing system
-•	Resolve technical issues related to Linux and Windows servers, including networking, software, and hardware
-•	Collaborate with team members to identify and troubleshoot complex issues
-•	Assist customers with configuring and optimizing their servers and applications
+Manage entire software development lifecycle, including code deployment and release management
+Implement CI/CD pipelines using Jenkins, Docker, Kubernetes and GitHub, reducing deployment time by 50%
+Configure and maintain cloud infrastructure on AWS, including EC2, S3, and RDS
+Assist in the deployment, automation and maintenance of cloud infrastructure across AWS and Azure environments.
+Utilize virtualization technologies like VMware, Hyper-V, and KVM to manage virtual environments.
+Develop, manage and optimize CI/CD pipelines for efficient and reliable software releases.
+Support software deployments, configuration management, and version control across development, staging, and production environments.
+Use of automation tools to streamline cloud operations, including deployment, scaling and monitoring.
+Monitor system performance, availability, and security using tools like Azure Monitor, Logic Monitor, Datadog, Prometheus, ELK etc.
+Assist with patch management and routine maintenance of servers, applications, network configurations, and security configurations.
+Collaborate with Dev and QA teams to troubleshoot deployments and environment-related issues.
+Support Information Security audits, including logging, compliance checks, and vulnerability remediations.
+Participate in incident response, root cause analysis, and documentation of system incidents and resolutions.
+Help implement infrastructure-as-code (IaC) using tools such as Terraform.
+
+•	Document technical solutions for future reference on jira.
+
 
 # ATM/ IT support staff 	 01/2008 to 03/2019
 INTERCONTINENTAL BANK PLC/ ACCESS BANK PLC 
